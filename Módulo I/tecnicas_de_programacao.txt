@@ -1,0 +1,23 @@
+> Técnica Linear
+    - Modelo Tradicional
+    - Não tem vínculo
+        - Estrutura hierárquica
+        - Programação de computadores
+    - Execução sequenciada
+
+> Técnica Estruturada
+    - Organização, disposição e ordem dos elementos essenciais que compõe um corpo 
+     (concreto ou abstrato)
+    * Objetivo
+        - Escrita de programa
+        - Entendimento
+        - Validação
+        - Manutenção
+
+> Técnica Modular
+    - Controlada por conjunto de regras
+    Dados de entrada -> Processo de transformação -> Dados de saída
+    * Meta
+        - Simplificação
+        - Decomposição do problema
+        - Verificação do módulo
