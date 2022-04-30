@@ -1,0 +1,43 @@
+> 4 pilares do pensamento computacional
+
+    - Decomposição: Dividir um problema complexo em sub problemas;
+    - Reconhecimento de Padrões: Identificar padrões ou tendências,
+     similaridades e diferenças entre os problemas;
+    - Abstração: Extrapolar o conceito do problema em uma forma generalista;
+    - Design de Algoritmos: Automatizar, definir passo a passo para a resolução do problema.
+
+> Processo contínuo
+    - Definir uma solução
+    - Testar a solução
+    - Aperfeiçoar a solução encontrada
+
+> Habilidades Complementares
+    - Raciocínio Lógico: É uma forma de pensamento estruturado.
+    - Aperfeiçoamento: A partir de uma solução, determinar pontos de melhora e refinamento.
+
+> PILARES
+    * Decomposição
+        - Primeiro passo da resolução de problemas dentro do pensamento computacional.
+        - Quebrar um problema complexo em problemas menores que são mais fáceis de resolver
+         e gerenciar.
+        - Combinar os elementos recompondo o problema original.
+        - Ordem de execução de tarefas menores: Sequencial ou paralelo. 
+    * Padrões
+        - Reconhecimento de padrões
+            * Modelo Base
+            * Estrutura Invariante
+            * Repetição
+        - Por que determinar padrões?
+            Generalizar, com o objetivo de obter resolução para problemas diferentes.
+    * Abstração
+        - Observar, um ou mais elementos, avaliando características e propriedades em separado.
+    * Algoritmos
+        - Processamento de dados: O computador recebe, manipula e armazena dados.
+        * Desenvolvimento do programa
+            - Análise
+            - Algoritmo
+            - Codificação
+        - Sequência de passos com objetivos definidos
+        - Execução de tarefas específicas
+        - Conjunto de operações que resultam em uma sucessão finita de ações
+        
