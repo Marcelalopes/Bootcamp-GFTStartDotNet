@@ -1,0 +1,28 @@
+- Plataforma para desenvolvimento de aplicações mobile modernas
+ com alto desempenho
+- baseado no projeto Mono, implementação open source baseada 
+ no .NET Framework
+- criação de interface nativa em cada plataforma e código de 
+ lógica compartilhado
+
+> Xamarin.Forms
+    - Framework open source para desenvolvimento de interfaces
+     para o usuário
+    - aplicativos android, iOS e windows com única base de código
+    - criação de UI com XAML e lógica com C#
+    - uso de biblioteca Xamarin.Essentials
+        - informações de dispositivos
+        - sistemas de arquivos
+        - acelerômetro
+        - bloqueio de tela
+
+> Xamarin.Android
+    - Compilação de C# para LI, que por sua vez é compilado para
+     assembly nativo no momento da execução
+    - executado no ambiente Mono + ART
+
+> Xamarin.iOS
+    - Compilação total de c# para código assembly nativo
+    - executado no ambiente MONO + alto
+    - restrição de segurança: sem permissão para execução de código
+     gerado dinamicamente

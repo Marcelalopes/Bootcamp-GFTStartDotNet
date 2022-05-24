@@ -1,0 +1,11 @@
+- ambiente de desenvolvimento e execusão focado em Windows
+- common language runtime( gerenciamento de execução dos apps) 
+ + .NET Class Library(biblioteca para reutilização de códigos)
+
+> Características principais
+    - gerenciamento de memória
+    - sistemas de tipos comu, -> tipos definidos pelo próprio Framework
+    - grande e específicas bibliotecas de classes utilitárias
+    - interoperabilidade de versões
+    - compatibilidade de versões
+    - uso do .NET Standard

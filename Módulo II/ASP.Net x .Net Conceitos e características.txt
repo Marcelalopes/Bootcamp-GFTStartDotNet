@@ -1,0 +1,44 @@
+> .NET 
+    Plataforma de desenvolvimento com diversas ferramentas, 
+    linguagens de programação e bibliotecas que permitem o 
+    desenvolvimento de diversos tipos de aplicações.
+    - gratuita e software livre
+    - Plataforma cruzada
+    - tipos de aplicação:
+        - web
+        - mobile
+        - desktop
+        - microservices
+        - cloud
+        - machine learning
+        - jogos
+        - internet das coisas
+    - ambientes de desenvolvimento:
+        - visual studio (Mac e Windows)
+        - visual studio code
+        - codespaces (online)
+    - linguagens de programação:
+        - C#
+        - F#
+        - visual basic
+    - bibliotecas para desenvolvimento e excução de aplicações .NET
+        - SDK
+        - Runtime
+    - NUGET: gerenciador de pacotes
+    - Acesso de dados
+        - ORM -> Entity Framework Core
+        - LINQ -> consulta integrada à linguagem
+
+> ASP.NET
+    Framework que estende .NET para a criação de web apps.
+    - aplicações web
+        - páginas web
+        - REST aplicações
+        - microservices
+        - hubs
+    - processamento de requisições web (C# e F#)
+    - criação de páginas da web de forma dinâmica
+    - bibliotecas para web patterns
+    - sistema de autenticação
+    - extensões para produtividade
+
